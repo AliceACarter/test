@@ -1,21 +1,3 @@
-<!doctype html>
-<div>Dear all,
-<span>I took this really cool course
-</span></div>
-<span>on Coursera.org. I think it's
-my favorite course I've EVER taken!
-Here is the URL for it:
-</span>
-<a href="...">HTML, CSS and JS for Web Developers</a>
-<div>
-Does anyone know how I can give this course 6
-out of 5 stars?
-</div>
-<div>
-Thank you,
--Yaakov.... I mean a random student! Definitely not Yaakov.
-</div>
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/AliceACarter/test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
